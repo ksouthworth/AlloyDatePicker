@@ -1,0 +1,9 @@
+<Alloy>
+    <View id="widget" width="Ti.UI.FILL" height="255dp" bottom="-265" >
+        <View id="buttonContainer" width="Ti.UI.FILL" height="Ti.UI.SIZE" layout="composite">
+            <Button id="cancelButton" class="pickerButton" left="10%" onClick="hideDatePicker">Cancel</Button>
+            <Button id="doneButton" class="pickerButton" right="10%" onClick="done" systemButton="DONE">Done</Button>
+        </View>
+        <Picker id="picker" selectionIndicator="true" useSpinner="true" />
+    </View>
+</Alloy>

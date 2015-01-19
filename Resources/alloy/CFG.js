@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"com.ksouthworth.datepicker":"1.0"},"theme":"wriststrap"};

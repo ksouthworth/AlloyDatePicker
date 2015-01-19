@@ -1,0 +1,12 @@
+"#widget": {
+}
+"#buttonContainer": {
+    backgroundColor: '#E8E8E8'
+}
+".pickerButton": {
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+    verticalAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_CENTER,
+    textAlign: 'center'
+}
+
